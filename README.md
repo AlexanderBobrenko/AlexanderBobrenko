@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[<img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=ffffff"/>](https://t.me/sanqe)
+[<img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=ffffff"/>](https://t.me/sanqeq)
 [<img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=VK&logoColor=ffffff"/>](https://vk.com/sanqee)
 #
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanqee1) 
